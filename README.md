@@ -15,3 +15,12 @@
   <li>main_model.h5 contains the saved model weights from the main_model.ipynb</li>
   <li>The three other .ipynb files contain the predictions of soil liquefaction using other tests based on the pre-trained model (main_model.h5), you can run the code easily on jupyter notebook by clicking Cell > Run All <li>
 </ul>
+<h2>Datasets</h2>
+<hr>
+<p>
+  You can find all the datasest in the folder ./Datasets.
+</p>
+<ul>
+  <li>The datasets from D1 to D7 are the Vs test datasets used to build the main model(pre-trained model)</li>
+  <li>The other tests datasets(CPT, DPT, and DPT) are used to evaluate and compare the pre-trained model predictions to other well-known models</li>
+</ul>
