@@ -13,7 +13,7 @@
   <li>Download the latest release and unzip to use. The unzipped folder contains all the files + datasets that the main codes will need to run.</li>
   <li>main_model.ipynb contains the source code of the main model (pre-trained model) based on the Vs test dataset, you can easily run it on Jupyter Notebook by clicking Cell > Run All</li>
   <li>main_model.h5 contains the saved model weights from the main_model.ipynb</li>
-  <li>The three other .ipynb files contain the predictions of soil liquefaction using other soil liquefaction tests based on the pre-trained model (main_model.h5), you can run the code easily on Jupyter notebook by clicking Cell > Run All <li>
+  <li>The three other .ipynb files contain the predictions of soil liquefaction using other soil liquefaction tests based on the pre-trained model (main_model.h5), you can run the code easily on Jupyter notebook by clicking Cell > Run All </li>
 </ul>
 <h2>Datasets</h2>
 <hr>
